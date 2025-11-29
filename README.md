@@ -8,15 +8,13 @@ It includes exploratory data analysis (EDA), data wrangling/preprocessing, and a
 
 ## Repository Structure
 Amazon_Delivery_Time_Prediction/
-│
-├── README.md
-├── Dataset/ ← Folder containing all data files
-│ ├── raw/ ← Raw data CSV
-│ ├── wrangled/ ← Cleaned / wrangled dataset
-│ └── processed/ ← Final preprocessed dataset used for modeling
-│
-├── Amazon_Delivery_Time_Prediction_EDA.ipynb ← Notebook for Exploratory Data Analysis & Hypothesis
-└── Amazon_Delivery_Time_Prediction.ipynb ← Notebook for Data Preprocessing, Model Training & Evaluation
+- README.md
+- Dataset/ ← Folder containing all data files
+  - raw/ ← Raw data CSV
+  - wrangled/ ← Cleaned / wrangled dataset
+  - processed/ ← Final preprocessed dataset used for modeling
+- Amazon_Delivery_Time_Prediction_EDA.ipynb ← Notebook for Exploratory Data Analysis & Hypothesis
+- Amazon_Delivery_Time_Prediction.ipynb ← Notebook for Data Preprocessing, Model Training & Evaluation
 
 ## What’s Inside
 
@@ -43,12 +41,12 @@ Amazon_Delivery_Time_Prediction/
 ## Requirements  
 
 To run the notebooks, you need the following Python libraries:
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-joblib
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
 
 ---
 
